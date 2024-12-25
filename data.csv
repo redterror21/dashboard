@@ -1,0 +1,6 @@
+Sector_Balance,Asset_Class_Distribution,Regional_Exposure,Cluster_Label
+120,"60,30,30",30,Cluster A
+80,"40,40",20,Cluster B
+150,"75,75",50,Cluster C
+200,"100,25,25,25,25",60,Cluster D
+90,"45,45",25,Cluster E
